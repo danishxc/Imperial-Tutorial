@@ -79,7 +79,7 @@ h1{
   font-size: 2.8rem;
 }
 h2{
-  font-size: 1.4rem;
+  font-size: 1.5rem;
 }
 h3{
   font-size: 0.87;
@@ -139,11 +139,12 @@ b{
 
  aside .logo{
    display: flex;
+   background-color: #41f1b6;
    gap: 1rem;
  }
  aside .logo img{
-   width: 2rem;
-   height: 2rem;
+   width: 3rem;
+   height: 3rem;
  }
  aside .top div.close span{
    display: none;
